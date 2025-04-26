@@ -1,19 +1,56 @@
-# Hi there 👋, I'm [Your Name]
+# 👋 Hi, I'm Randi Maulana!
 
-🚀 Passionate **Frontend Developer** | Open Source Contributor | Tech Enthusiast  
+#### Passionate about Clean Code and Effective Testing
 
-### 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+Welcome to my GitHub! Here, you can explore my coding projects, automation testing setups, and even a few design portfolios. I'm passionate about writing clean, maintainable code and creating user-centric designs. Currently, I'm diving deeper into Java and Software Quality Assurance (SQA).
 
-### 🌟 Featured Projects
-- [Project 1](link) - Deskripsi singkat.
-- [Project 2](link) - Deskripsi singkat.
+## 🔧 Technologies & Tools
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+### 🖥️ **Languages**:
+- Java
+- SQL
 
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](your-linkedin-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](your-twitter-link)
+### 🛠️ **Frameworks & Tools**:
+- Spring Boot
+- Selenium
+- Cucumber
+- Git & GitHub
+
+### 🎨 **Design Tools**:
+- Adobe Photoshop
+- Illustrator
+- Adobe XD
+- Figma
+
+---
+
+## 📚 Featured Projects
+
+### 🔹 **[Selenium Automation Testing with Cucumber](https://github.com/RandiMaulana/saucedemo-automation)**
+
+This project demonstrates automated testing for a login and checkout flow on the website [saucedemo.com](https://www.saucedemo.com). The tests are written using Selenium and Cucumber.
+
+---
+
+## 💬 Let's Connect!
+
+- LinkedIn: [Randi Maulana](https://www.linkedin.com/in/randimaulana)
+- Email: [randi.maulana26@gmail.com](mailto:randi.maulana26@gmail.com)
+
+---
+
+## 🎓 Currently Learning
+
+- **Software Quality Assurance (SQA)**: Specializing in test automation with Selenium.
+- **Spring Boot**: Exploring more advanced features like microservices architecture.
+- **Java**: Continuing to master OOP principles and best practices.
+
+---
+
+## 📈 GitHub Stats
+
+![Randi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiMaulana&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+Thank you for checking out my profile! If you have any questions or collaboration opportunities, feel free to reach out to me.
