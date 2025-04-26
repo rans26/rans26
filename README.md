@@ -4,27 +4,6 @@
 
 Welcome to my GitHub! Here, you can explore my coding projects, automation testing setups. I'm passionate about writing clean, maintainable code and creating user-centric designs. Currently, I'm diving deeper into Java and Software Quality Assurance (SQA).
 
-## 🔧 Technologies & Tools
-
-### 🖥️ **Languages**:
-- Java
-- SQL
-
-### 🛠️ **Frameworks & Tools**:
-- Selenium
-- Appium
-- Katalon
-- Cucumber
-
-### 🎨 **Design Tools**:
-- Adobe Photoshop
-- Illustrator
-- Adobe XD
-- Figma
-
----
-
-
 ## 💬 Let's Connect!
 
 - LinkedIn: [Randi Maulana](https://www.linkedin.com/in/randimaulana)
