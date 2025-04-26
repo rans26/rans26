@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**rans26/rans26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Frontend Developer** | Open Source Contributor | Tech Enthusiast  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- [Project 1](link) - Deskripsi singkat.
+- [Project 2](link) - Deskripsi singkat.
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](your-linkedin-link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](your-twitter-link)
