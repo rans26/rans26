@@ -4,11 +4,6 @@
 
 Welcome to my GitHub! Here, you can explore my coding projects, automation testing setups. I'm passionate about writing clean, maintainable code and creating user-centric designs. Currently, I'm diving deeper into Java and Software Quality Assurance (SQA).
 
-## 💬 Let's Connect!
-
-- LinkedIn: [Randi Maulana](https://www.linkedin.com/in/randimaulana)
-- Email: [randi.maulana26@gmail.com](mailto:randi.maulana26@gmail.com)
-
 ---
 
 ## 🎓 Currently Learning
